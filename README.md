@@ -8,5 +8,5 @@
 
 ## Link
 
-[JS Todo List](./index.html)
+[JS Todo List](https://arielxl.github.io/todo-list/)
 
